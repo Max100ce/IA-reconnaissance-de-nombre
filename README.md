@@ -3,7 +3,7 @@
 Le dossier est composé de 3 morceaux de codes :
 * setup.py -> initialiser aléatoirement les poids et les bias
 * entrainement.py -> entraîner l'IA
-* test.py -> tester l'IA    
+* test.py -> tester l'IA
 Ainsi que de plusieurs fichiers :
 * Le dossier 'pack' contient une liste d'image de chiffre ainsi que leur valeur (pris sur le site du MNIST)
 * Les fichiers txt qui sont les sauvegardes des poids et des bias
